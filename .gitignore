@@ -12,4 +12,5 @@
 *.la
 *.a
 
+#Delete temporary mac ox file
 .DS_STORE
